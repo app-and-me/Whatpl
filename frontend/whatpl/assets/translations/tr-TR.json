@@ -1,0 +1,29 @@
+{
+    "nav": {
+        "home": "Ana Sayfa",
+        "map": "Harita",
+        "profile": "Profil"
+    },
+    "title": "Bir drama sahnesine kapılın!",
+    "login": {
+        "google": "Google hesabı ile giriş yap",
+        "apple": "Apple hesabı ile giriş yap"
+    },
+    "sectionTitle": {
+        "1": "Son zamanların popüler dizi çekim mekanları",
+        "2": "Son gördüğüm çekim mekanlarına benzeyen dizi mekanları",
+        "3": "AI tarafından önerilen dizi çekim mekanları",
+        "4": "Favorilerime benzeyen dizi çekim mekanları"
+    },
+    "language": {
+        "title": "Dil Değiştir",
+        "ok": "Onayla",
+        "cancel": "İptal"
+    },
+    "profile": {
+        "setting": "Hesap Bilgilerini Ayarla",
+        "logout": "Çıkış Yap",
+        "language": "Dil Değiştir",
+        "alarm": "Bildirim Ayarları"
+    }
+}
