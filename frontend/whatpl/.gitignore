@@ -41,3 +41,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+.DS_Store
+firebase_options.dart
+GoogleService-Info.plist
+firebase.json
+google-services.json
+kakaomap.html

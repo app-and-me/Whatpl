@@ -1,0 +1,29 @@
+{
+    "nav": {
+        "home": "Home",
+        "map": "Map",
+        "profile": "Profile"
+    },
+    "title": "Immerse yourself in a scene from a drama!",
+    "login": {
+        "google" : "Login with Google",
+        "apple" : "Login with Apple"
+    },
+    "sectionTitle": {
+        "1": "Recently emerging series filming locations",
+        "2": "Series filming locations similar to the ones I recently viewed",
+        "3": "Series filming locations recommended by AI",
+        "4": "Series filming locations similar to the ones I bookmarked"
+    },
+    "language": {
+        "title": "Change Language",
+        "ok": "ok",
+        "cancel": "cancel"
+    },
+    "profile": {
+        "setting": "Account Information Setting",
+        "logout": "Logout",
+        "language": "Change Language",
+        "alarm": "Notification Setting"
+    }
+}
